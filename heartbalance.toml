@@ -8,7 +8,7 @@
 	#
 	#Set the initial heart offset, it adds this to all players.  Zero means normal 10 hearts; -1 means players start with 9 hearts; 5 means you spawn with 15 hearts.
 	#Range: -9 ~ 90
-	spawnHeartOffset = 0
+	spawnHeartOffset = 10
 	#
 	#Play sounds on heart pickup
 	soundOnUse = true
